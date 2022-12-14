@@ -11,6 +11,15 @@ release.properties
 .classpath
 .settings/
 bin/
+.metadata
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+.recommenders
 
 # IntelliJ
 .idea
